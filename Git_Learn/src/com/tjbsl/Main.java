@@ -10,11 +10,11 @@ public class Main {
 		System.out.println("4 -master");
 		System.out.println("5 -master");
 
-		System.out.println("6 -master");
-		System.out.println("7 -master");
-		System.out.println("8 -master");
-		System.out.println("9 -master");
-		System.out.println("10 -master");
+		System.out.println("6 -master -dev4");
+		System.out.println("7 -master -dev4");
+		System.out.println("8 -master -dev4");
+		System.out.println("9 -master -dev4");
+		System.out.println("10 -master -dev4");
 		System.out.println("master end");
 	}
 }
